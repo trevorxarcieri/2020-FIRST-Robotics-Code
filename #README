@@ -1,0 +1,12 @@
+This is the code for the robot Team 3667 created for the 2020 season of FIRST Robotics, Infinite Recharge, in the early weeks of 2020.
+I, Trevor Arcieri, was the informal lead programmer on the team. I lead the programming efforts of our robotics team that year,
+despite it being my rookie year. In fact, I wrote all of the Java code contained here except for the Main.java file which is open source
+and provided to the team through the FIRST Robotics Competition, and the 54 lines of targeting code (lines 98-116, 218-221, and 708-738)
+in the Operations.java file, which my teammate Lawrence "Chet" Skotzke wrote. I wrote the code as a high school junior over the span of 
+three months, during my first approximately five months on the team, only having access to the physical robot for testing purposes during 
+the final three weeks of this time. During these three months, I worked approximately 13 hours per week on this code. The code operates 
+our 2020 Alpha robot sufficiently, but currently does not contain programming for the autonomous section of the competition. In fact, 
+much of the code is rather messy, since our season was cut short due to the COVID-19 pandemic. Much of the code is commented-out: 
+these are portions we were preparing to make functional in the robot, but did not have time to polish before our first competition. 
+The code could easily be tidied up and would still allow our robot to function extremely well, as it did at competition. I like to 
+preserve the code as it was when the season ended as a sort of time capsule of my past coding forays. 
